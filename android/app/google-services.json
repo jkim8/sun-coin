@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669370783948",
+    "project_id": "sun-coin-3398d",
+    "storage_bucket": "sun-coin-3398d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669370783948:android:e0f96ca8f8f20c27898a69",
+        "android_client_info": {
+          "package_name": "com.suncoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669370783948-435fhki7dp382c8utjkf1439is62vftp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suncoin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "669370783948-st2pjegb0fkuspmdl0f1335htuj6c8dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtg_77iacT9hSi0W2tOswPt7SC7-bkH00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669370783948-st2pjegb0fkuspmdl0f1335htuj6c8dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
