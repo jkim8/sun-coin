@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sun-coin",
+    "slug": "sun-coin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sun-coin"
+}
